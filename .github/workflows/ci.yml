@@ -1,5 +1,5 @@
 name: CI
-
+https://zenodo.org/badge/latestdoi/14164618
 on:
   push:
     branches:
